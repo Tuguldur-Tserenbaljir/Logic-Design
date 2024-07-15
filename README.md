@@ -3,9 +3,9 @@
 This course introduces the fundamentals of digital logic design and circuit implementation. Key topics include binary number systems, Boolean algebra, switching functions, and combinational logic optimization. I learned about essential storage registers (D-flip-flop, J-K-flip flop), synchronous sequential logic, finite-state machines, and the integration of combinational and sequential circuits. The course also covers register and counter design, basic memory operations, and an introduction to Register Transfer Level (RTL) and hardware description languages for digital system development.
 
 # Mini-Coding Project Percentage
-Lab 1-94/100 ***Kevin number detector***<br/>
-Lab 2- 85.8/100***ALU and Carry-Lookahead Adder***<br/>
-Lab 3-94/100 ***Pattern Matching***<br/>
+Lab 1-94/100    ***Kevin number detector***<br/>
+Lab 2- 85.8/100 ***ALU and Carry-Lookahead Adder***<br/>
+Lab 3-94/100    ***Pattern Matching***<br/>
 
 # Syllabus
 1. Introductory Digital Design Concepts;
